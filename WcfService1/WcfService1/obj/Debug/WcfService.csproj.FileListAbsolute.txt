@@ -1,0 +1,15 @@
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\WcfService1.dll.config
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\WcfService1.dll
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\WcfService1.pdb
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\Microsoft.Azure.Services.AppAuthentication.dll
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\Microsoft.ServiceBus.dll
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\Microsoft.Azure.Services.AppAuthentication.xml
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\Microsoft.ServiceBus.xml
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+F:\METHRAX\Azure\WCFRelay\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
